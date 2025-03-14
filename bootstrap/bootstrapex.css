@@ -1,0 +1,17 @@
+.btn-success {
+    background-color: rgb(249, 2, 249);
+}
+
+.carousel-inner {
+    width: 50%;
+    height: 50%;
+}
+
+.myclass {
+    margin: 50px;
+}
+
+p{
+    border: 5px solid black;
+    margin-top: 40px;
+}
